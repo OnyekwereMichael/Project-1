@@ -9,10 +9,14 @@
 body{
     font-family: public sans
 }
+header{
+    text-align: center;
+}
 .choose{
     text-align: center;
 }.dummy{
     margin-top: 10px;
+    text-align: center;
 }.container{
     display: flex;
     justify-content: center;
@@ -157,5 +161,9 @@ footer{
     margin-top: 50px;
 }.flex1{
     flex-wrap: wrap;
+}.choose{
+    margin-left: 70px;
+}.container{
+  margin-left: 70px;
 }
 }
